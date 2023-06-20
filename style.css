@@ -3,6 +3,7 @@
     border-radius: 10px;
     padding: 100px;
     margin: 100px;
+    color: white;
 }
 #google{
     width: 100px;
@@ -17,3 +18,10 @@ img{
     height:400px;
 }
 
+#haha{
+    background-color: lightcoral;
+    color: black;
+    border-radius: 10px;
+    padding: 100px;
+    margin: 100px;
+}
